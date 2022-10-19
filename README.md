@@ -13,10 +13,10 @@ arch -x86_64 pod install
 
 # 깃 이메일 설정
 
-1. 이메일 확인
+1.이메일 확인
 
 git config user.email
 
-2. 이메일 변경
+2.이메일 변경
 
 git config --global user.email 바꿀@이메일주소.com
